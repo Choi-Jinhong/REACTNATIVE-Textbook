@@ -69,4 +69,4 @@ const UserContextProvider = ({children}: Props) => {
   );
 };
 
-export default {UserContextProvider, UserContext};
+export {UserContextProvider, UserContext};

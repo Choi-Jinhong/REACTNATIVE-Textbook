@@ -43,7 +43,7 @@ const Login = ({navigation}: Props) => {
   return (
     <Container>
       <FormContainer>
-        <Input style={{marginBottom: 16}} placehoder="이메일" />
+        <Input style={{marginBottom: 16}} placeholder="이메일" />
         <Input
           style={{marginBottom: 16}}
           placeholder="비밀번호"
